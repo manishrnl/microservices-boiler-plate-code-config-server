@@ -1,0 +1,1 @@
+# This is a sample config file and is a complete microservice boilerplate code that does not let the developers to strat coding from scratch
